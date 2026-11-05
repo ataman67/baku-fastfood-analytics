@@ -1,0 +1,35 @@
+order_id,branch_name,zone_type,order_timestamp,order_hour,payment_method,order_type,category_name,item_name,quantity,cost_price,selling_price,revenue,profit
+1,Narimanov,Office Hub,2026-10-15 12:30:00,12,BirBank/LeoCard,Dine-in,Doner & Wrap,Beef Doner in Lavash (Et Döner),2,1.80,4.50,9.00,5.40
+1,Narimanov,Office Hub,2026-10-15 12:30:00,12,BirBank/LeoCard,Dine-in,Sides,French Fries (Fri),2,0.60,2.50,5.00,3.80
+1,Narimanov,Office Hub,2026-10-15 12:30:00,12,BirBank/LeoCard,Dine-in,Drinks,Coca-Cola 0.5L,2,0.50,1.80,3.60,2.60
+2,Narimanov,Office Hub,2026-10-15 13:15:00,13,Wolt/Bolt Pay,Delivery,Burgers,Baku Double Smash Burger,1,3.00,7.50,7.50,4.50
+2,Narimanov,Office Hub,2026-10-15 13:15:00,13,Wolt/Bolt Pay,Delivery,Sides,French Fries (Fri),1,0.60,2.50,2.50,1.90
+2,Narimanov,Office Hub,2026-10-15 13:15:00,13,Wolt/Bolt Pay,Delivery,Drinks,Coca-Cola 0.5L,1,0.50,1.80,1.80,1.30
+3,28 May,Student & Transit,2026-10-15 13:40:00,13,m10,Takeaway,Doner & Wrap,Chicken Doner in Bread (Toyuq Döner),2,1.40,3.80,7.60,4.80
+3,28 May,Student & Transit,2026-10-15 13:40:00,13,m10,Takeaway,Drinks,Ayran 0.3L,2,0.30,1.20,2.40,1.80
+4,Neftchiler,Residential / Student,2026-10-15 14:10:00,14,Cash,Dine-in,Doner & Wrap,Beef Doner in Lavash (Et Döner),1,1.80,4.50,4.50,2.70
+4,Neftchiler,Residential / Student,2026-10-15 14:10:00,14,Cash,Dine-in,Sides,French Fries (Fri),1,0.60,2.50,2.50,1.90
+4,Neftchiler,Residential / Student,2026-10-15 14:10:00,14,Cash,Dine-in,Drinks,Ayran 0.3L,1,0.30,1.20,1.20,0.90
+5,Khirdalan,Suburban High-Volume,2026-10-15 18:20:00,18,Wolt/Bolt Pay,Delivery,Burgers,Baku Double Smash Burger,2,3.00,7.50,15.00,9.00
+5,Khirdalan,Suburban High-Volume,2026-10-15 18:20:00,18,Wolt/Bolt Pay,Delivery,Sides,French Fries (Fri),2,0.60,2.50,5.00,3.80
+5,Khirdalan,Suburban High-Volume,2026-10-15 18:20:00,18,Wolt/Bolt Pay,Delivery,Drinks,Coca-Cola 0.5L,2,0.50,1.80,3.60,2.60
+6,Khirdalan,Suburban High-Volume,2026-10-15 19:00:00,19,Wolt/Bolt Pay,Delivery,Doner & Wrap,Beef Doner in Lavash (Et Döner),3,1.80,4.50,13.50,8.10
+6,Khirdalan,Suburban High-Volume,2026-10-15 19:00:00,19,Wolt/Bolt Pay,Delivery,Sides,French Fries (Fri),3,0.60,2.50,7.50,5.70
+6,Khirdalan,Suburban High-Volume,2026-10-15 19:00:00,19,Wolt/Bolt Pay,Delivery,Drinks,Ayran 0.3L,3,0.30,1.20,3.60,2.70
+7,Masazyr,Suburban High-Volume,2026-10-15 19:30:00,19,Cash,Delivery,Doner & Wrap,Chicken Doner in Bread (Toyuq Döner),4,1.40,3.80,15.20,9.60
+7,Masazyr,Suburban High-Volume,2026-10-15 19:30:00,19,Cash,Delivery,Sides,French Fries (Fri),4,0.60,2.50,10.00,7.60
+7,Masazyr,Suburban High-Volume,2026-10-15 19:30:00,19,Cash,Delivery,Drinks,Coca-Cola 0.5L,4,0.50,1.80,7.20,5.20
+8,Masazyr,Suburban High-Volume,2026-10-15 20:15:00,20,BirBank/LeoCard,Delivery,Burgers,Baku Double Smash Burger,1,3.00,7.50,7.50,4.50
+8,Masazyr,Suburban High-Volume,2026-10-15 20:15:00,20,BirBank/LeoCard,Delivery,Sides,Cheese Sticks,1,1.10,3.50,3.50,2.40
+8,Masazyr,Suburban High-Volume,2026-10-15 20:15:00,20,BirBank/LeoCard,Delivery,Desserts,Baklava (2 pcs),1,1.00,3.00,3.00,2.00
+9,Narimanov,Office Hub,2026-10-16 12:45:00,12,BirBank/LeoCard,Dine-in,Burgers,Baku Double Smash Burger,2,3.00,7.50,15.00,9.00
+9,Narimanov,Office Hub,2026-10-16 12:45:00,12,BirBank/LeoCard,Dine-in,Sides,French Fries (Fri),2,0.60,2.50,5.00,3.80
+9,Narimanov,Office Hub,2026-10-16 12:45:00,12,BirBank/LeoCard,Dine-in,Drinks,Coca-Cola 0.5L,2,0.50,1.80,3.60,2.60
+10,28 May,Student & Transit,2026-10-16 13:00:00,13,BirBank/LeoCard,Dine-in,Doner & Wrap,Chicken Doner in Bread (Toyuq Döner),2,1.40,3.80,7.60,4.80
+10,28 May,Student & Transit,2026-10-16 13:00:00,13,BirBank/LeoCard,Dine-in,Drinks,Ayran 0.3L,2,0.30,1.20,2.40,1.80
+11,Neftchiler,Residential / Student,2026-10-16 18:50:00,18,Cash,Takeaway,Doner & Wrap,Beef Doner in Lavash (Et Döner),2,1.80,4.50,9.00,5.40
+11,Neftchiler,Residential / Student,2026-10-16 18:50:00,18,Cash,Takeaway,Sides,French Fries (Fri),2,0.60,2.50,5.00,3.80
+11,Neftchiler,Residential / Student,2026-10-16 18:50:00,18,Cash,Takeaway,Drinks,Coca-Cola 0.5L,2,0.50,1.80,3.60,2.60
+12,Khirdalan,Suburban High-Volume,2026-10-16 20:30:00,20,Wolt/Bolt Pay,Delivery,Burgers,Baku Double Smash Burger,3,3.00,7.50,22.50,13.50
+12,Khirdalan,Suburban High-Volume,2026-10-16 20:30:00,20,Wolt/Bolt Pay,Delivery,Sides,French Fries (Fri),3,0.60,2.50,7.50,5.70
+12,Khirdalan,Suburban High-Volume,2026-10-16 20:30:00,20,Wolt/Bolt Pay,Delivery,Drinks,Coca-Cola 0.5L,3,0.50,1.80,5.40,3.90
